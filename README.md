@@ -16,6 +16,8 @@ Example:
 
 Result: **15**
 
+Explanation: this Json represents the expression: `1 + 2 + (3 * 4)`
+
 <br>
 
 How to Run:
